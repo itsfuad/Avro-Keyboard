@@ -1,0 +1,57 @@
+.DS_Store
+*.~*
+*.adt
+*.bdsdeploy
+*.bdsgroup
+*.bpg
+*.dcl
+*.groupproj
+*.dcp
+*.dcpil
+*.dcu
+*.gif
+*.2007
+*.tvsconfig
+*.jpg
+*.bmp
+*.psd
+*.dcuil
+*.ddp
+*.dof
+*.dpc
+*.dpl
+*.ico
+*.dproj
+*.drc
+*.dsk
+*.dsm
+*.identcache
+*.local
+*.map
+*.mts
+*.rsm
+*.bpl
+*.cbk
+*.cfg
+*.dcl
+*.exe
+*.png
+*.xml
+*__history
+*.elf
+Keyboard and Spell checker/ProjectDefines.inc
+Keyboard and Spell checker/*/ProjectDefines.inc
+Keyboard and Spell checker/*/*/ProjectDefines.inc
+Keyboard and Spell checker/Profiling/
+Layout Editor/ProjectDefines.inc
+Layout Editor/*/ProjectDefines.inc
+Skin Designer/ProjectDefines.inc
+Skin Designer/*/ProjectDefines.inc
+Unicode to ascii converter/ProjectDefines.inc
+Unicode to ascii converter/*/ProjectDefines.inc
+__history/
+Data/
+DCU/
+Portable Edition/
+Source Archive/
+Standard edition/
